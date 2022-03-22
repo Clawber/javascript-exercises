@@ -1,4 +1,7 @@
-const removeFromArray = function() {
+const removeFromArray = function(array, toRemove) {
+    array.forEach(array => {
+        console.log("nsrie");
+    });
 
 };
 
